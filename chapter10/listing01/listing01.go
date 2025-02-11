@@ -35,7 +35,7 @@ func (Xenia) Pull(d *Data) error {
 		return errors.New("Error reading data from Xenia")
 
 	default:
-		d.Line = "Data"
+		d.Line = "Data" 
 		fmt.Println("In:", d.Line)
 		return nil
 	}
