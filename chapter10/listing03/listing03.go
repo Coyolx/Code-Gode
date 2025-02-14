@@ -1,5 +1,5 @@
 // Sample program demonstrating interface composition.
-package main
+package main 
 
 import (
 	"errors"
