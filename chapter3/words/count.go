@@ -1,5 +1,5 @@
 // Package words provides support for counting words.
-package words
+package words 
 
 import "strings"
 
