@@ -1,7 +1,7 @@
 // Sample program demonstrating decoupling with interface composition.
 package main
 
-import (
+import ( 
 	"errors"
 	"fmt"
 	"io"
