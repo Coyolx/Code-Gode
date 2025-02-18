@@ -1,7 +1,7 @@
 // Sample program demonstrating struct composition.
 package main
 
-import (
+import ( 
 	"errors"
 	"fmt"
 	"io"
