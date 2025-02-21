@@ -3,7 +3,7 @@
 package main
 
 import (
-	"fmt"
+	"fmt" 
 )
 
 // user defines a user in the program.
