@@ -1,5 +1,5 @@
 // Sample program demonstrating struct composition.
-package main
+package main 
 
 import ( 
 	"errors"
