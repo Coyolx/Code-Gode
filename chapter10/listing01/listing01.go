@@ -2,7 +2,7 @@
 package main 
 
 import ( 
-	"errors"
+	"errors" 
 	"fmt"
 	"io"
 	"math/rand"
